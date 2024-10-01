@@ -1,0 +1,14 @@
+Remove UI branch. It's good practice to clean up after a branch has outlived it's purpose, been merged to main.
+The README.md file is to explain to the user how they can run your application. Nothing else should be in the file. I didn't find it clear enough to succeed in running the application.
+	Python3 Flask Random These 3 are required to be installed on system to run this project. Where are these found and how are they installed.
+	The instructions say run the application.py file. How is this done?
+Code:
+	application.py
+		ap()
+			Method name isn't helpful to the reader of this code. Code will be read 100 times for every time it is written.
+			There is an if statement that appears to have the same code in the if clause as the else clause. If there is a difference it should be factored out. This should likely be two methods.
+			I'm still not clear on what 511 means.
+	game.py
+		Notice how many times the number 5 appears in the code. Your code would be more readable by making this a constant.
+	gamePage.html
+		I liked the instructions being easy to pop up and dismiss.

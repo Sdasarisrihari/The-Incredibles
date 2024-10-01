@@ -1,0 +1,12 @@
+application.py - 
+A lot going on in little code. could be simplified and refactored a bit. Especially mainPageRollClicked()
+I didn't understand this line: # Dice Value 511 has null so we initialise with that
+
+utils.py - 
+Good small functions - great little wrapper of some functions.
+
+test.py - 
+Some useful here, but these feel bigger than unit tests as they are doing a whole game not a round or smaller. Please add micro or unit tests.
+
+game.py - 
+Bigger methods than best practice calls for. A little odd logic for determining game over. 
