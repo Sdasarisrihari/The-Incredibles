@@ -1,13 +1,10 @@
 # The-Incredibles
 
 # Team members
-Akanksha Gottumukkala<br />
 
 Srihari Dasari<br />
 
-Kavitha Boya<br />
-
-Sushma Veeravalli<br />
+Akanksha Gottumukkala<br />
 
 # Description 
 our application is " THE SCRUM GAME".<br />
